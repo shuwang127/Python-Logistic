@@ -10,6 +10,5 @@ Two options to run:
 python LogisticRegression.py
 ```
 
-2. Colab Notebook
-
+2. Colab Notebook\
 Click the button 'Open in Colab' in the Python-Logistic.ipynb
